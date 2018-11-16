@@ -1,9 +1,14 @@
-// Make variables for the text box, button, and paragraph.
-// You can name them anything you want, but for simplicity, name them the same as the IDs.
+// Give variables names that describe what they are.
+// Remember, event listeners have two parameters: type of event and function name.
+// Give functions names that would describe the action they are doing.
+// Keep your code organized so that it is easy to understand.
 
 
-// Add an event listener to the button to show the story.
-// You can name the function anything you want, but pick something that indicates action, like showStory.
+// Add code below this line: --------------
+// Section 1: Make separate variables for the text box, button, and paragraph.
 
 
-// Make a function to show the story.
+// Section 2: Add an event listener to the button to show the story.
+
+
+// Section 3: Make a function to show the story.
